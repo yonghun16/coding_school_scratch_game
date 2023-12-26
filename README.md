@@ -10,6 +10,9 @@
 	<li>
 		Single-page
 	</li>
+	<li>
+		반응형
+	</li>
 </ul>
 </br>
 <h4>Powerd by</h4>
