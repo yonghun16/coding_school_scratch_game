@@ -5,7 +5,7 @@
 	
 <ul>
 	<li>
-		<a href="https://yonghun16.github.io/coding_school_scratch_game/">보러가기</a>
+		<a href="https://yonghun16.github.io/coding_school_scratch_game/">똥 피하기 게임 보기</a>
 	</li>
 	<li>
 		Single-page, 반응형
