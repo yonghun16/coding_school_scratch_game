@@ -1,8 +1,11 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=스크래치%20게임%20만들기&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
 
-
 <a href="https://yonghun16.github.io/coding_school_scratch_game/"><img src="https://raw.githubusercontent.com/yonghun16/coding_school_scratch_game/main/preview.png" width=800px /></a>
-	
+
+</div>	
+
 <ul>
 	<li>
 		<a href="https://yonghun16.github.io/coding_school_scratch_game/">똥 피하기 게임 보기</a>
