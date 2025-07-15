@@ -8,7 +8,12 @@
 		<a href="https://yonghun16.github.io/coding_school_scratch_game/">똥 피하기 게임 보기</a>
 	</li>
 	<li>
-		Single-page, 반응형
+		Scratch를 활용한 입문 프로젝트: 똥 피하기 게임 만들기<br />
+본 강의는 Scratch를 통해 초보자도 쉽게 접근할 수 있는 미니 게임 제작 수업입니다.<br />
+‘똥 피하기’라는 친근한 주제를 통해, 학습자는 키보드 이벤트 처리, 무작위 좌표 생성, 충돌 감지 등의 코딩 개념을 자연스럽게 익히고, 창의적인 문제 해결 능력을 기를 수 있습니다. <br />
+	</li>
+	<li>
+		포트폴리오 페이지 - Single-page, 반응형
 	</li>
 </ul>
 <br />
